@@ -20,3 +20,9 @@ Thu, Mar 27, 2025 10:58:50 PM:
 Thu, Mar 27, 2025 11:00:38 PM: 
  tests:  0|0
 ebca1b2
+Thu, Mar 27, 2025 11:09:11 PM: 
+ list.c | 14 ++++++++------
+ 1 file changed, 8 insertions(+), 6 deletions(-)
+ tests:  11|1
+total_score: 55/70
+68abdce
